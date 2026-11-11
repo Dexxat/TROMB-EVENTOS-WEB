@@ -1,0 +1,11 @@
+# Dependencias y archivos del sistema
+node_modules/
+.DS_Store
+
+# Copias de respaldo locales
+*.backup.*
+*.pre-*
+
+# Archivos de trabajo locales
+*.code-workspace
+README.pdf
